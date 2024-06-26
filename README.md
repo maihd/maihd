@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maihd
-- 👀 I’m interested in gamedev
+- 👀 I’m interested in gamedev. Starting make game with [Beef](https://github.com/maihd/beef-gamedev)
 - 🌱 I’m currently learning AI for game npc, game design
 - 💞️ I’m looking to collaborate on open source game
 - 📫 How to reach me maihd.dev@gmail.com
